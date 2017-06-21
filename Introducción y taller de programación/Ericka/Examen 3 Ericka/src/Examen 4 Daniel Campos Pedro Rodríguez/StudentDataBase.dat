@@ -1,0 +1,760 @@
+(lp0
+(i__main__
+Estudiante
+p1
+(dp2
+S'Nombre'
+p3
+I20130001
+sS'Carnet'
+p4
+S'Ignacio Sandoval'
+p5
+sba(i__main__
+Estudiante
+p6
+(dp7
+g3
+I20130002
+sg4
+S'Nicole Carvajal'
+p8
+sba(i__main__
+Estudiante
+p9
+(dp10
+g3
+I20130003
+sg4
+S'Ivan Sancho'
+p11
+sba(i__main__
+Estudiante
+p12
+(dp13
+g3
+I20130004
+sg4
+S'Brandon Villalobos'
+p14
+sba(i__main__
+Estudiante
+p15
+(dp16
+g3
+I20130005
+sg4
+S'Julia Acosta'
+p17
+sba(i__main__
+Estudiante
+p18
+(dp19
+g3
+I20130006
+sg4
+S'Camila Montoya'
+p20
+sba(i__main__
+Estudiante
+p21
+(dp22
+g3
+I20130007
+sg4
+S'Felipe Cartin'
+p23
+sba(i__main__
+Estudiante
+p24
+(dp25
+g3
+I20130008
+sg4
+S'Josue Arroyo'
+p26
+sba(i__main__
+Estudiante
+p27
+(dp28
+g3
+I20130009
+sg4
+S'Jorge Monge'
+p29
+sba(i__main__
+Estudiante
+p30
+(dp31
+g3
+I20130010
+sg4
+S'Fabio Fernandez'
+p32
+sba(i__main__
+Estudiante
+p33
+(dp34
+g3
+I20130011
+sg4
+S'Esteban Acosta'
+p35
+sba(i__main__
+Estudiante
+p36
+(dp37
+g3
+I20130012
+sg4
+S'Mauricio Molina'
+p38
+sba(i__main__
+Estudiante
+p39
+(dp40
+g3
+I20130013
+sg4
+S'Loana Naranjo'
+p41
+sba(i__main__
+Estudiante
+p42
+(dp43
+g3
+I20130014
+sg4
+S'Diana Vargas'
+p44
+sba(i__main__
+Estudiante
+p45
+(dp46
+g3
+I20130015
+sg4
+S'Ignacio Garro'
+p47
+sba(i__main__
+Estudiante
+p48
+(dp49
+g3
+I20130016
+sg4
+S'Luciano Stanka'
+p50
+sba(i__main__
+Estudiante
+p51
+(dp52
+g3
+I20130017
+sg4
+S'Arlin Piedra'
+p53
+sba(i__main__
+Estudiante
+p54
+(dp55
+g3
+I20130018
+sg4
+S'Arlin Morales'
+p56
+sba(i__main__
+Estudiante
+p57
+(dp58
+g3
+I20130019
+sg4
+S'Camila Riggioni'
+p59
+sba(i__main__
+Estudiante
+p60
+(dp61
+g3
+I20130020
+sg4
+S'Paula Murillo'
+p62
+sba(i__main__
+Estudiante
+p63
+(dp64
+g3
+I20130021
+sg4
+S'Gabriela Vaca'
+p65
+sba(i__main__
+Estudiante
+p66
+(dp67
+g3
+I20130022
+sg4
+S'Josue Sandoval'
+p68
+sba(i__main__
+Estudiante
+p69
+(dp70
+g3
+I20130023
+sg4
+S'Stephanie Koberg'
+p71
+sba(i__main__
+Estudiante
+p72
+(dp73
+g3
+I20130024
+sg4
+S'Jorge Fonseca'
+p74
+sba(i__main__
+Estudiante
+p75
+(dp76
+g3
+I20130025
+sg4
+S'Manuela Fonseca'
+p77
+sba(i__main__
+Estudiante
+p78
+(dp79
+g3
+I20130026
+sg4
+S'Edson Acosta'
+p80
+sba(i__main__
+Estudiante
+p81
+(dp82
+g3
+I20130027
+sg4
+S'Pedro Alberty'
+p83
+sba(i__main__
+Estudiante
+p84
+(dp85
+g3
+I20130028
+sg4
+S'Mauricio Piedra'
+p86
+sba(i__main__
+Estudiante
+p87
+(dp88
+g3
+I20130029
+sg4
+S'Mariel Bermudez'
+p89
+sba(i__main__
+Estudiante
+p90
+(dp91
+g3
+I20130030
+sg4
+S'Sharon Rodriguez'
+p92
+sba(i__main__
+Estudiante
+p93
+(dp94
+g3
+I20130031
+sg4
+S'Esteban Brenes'
+p95
+sba(i__main__
+Estudiante
+p96
+(dp97
+g3
+I20130032
+sg4
+S'Loana Saenz'
+p98
+sba(i__main__
+Estudiante
+p99
+(dp100
+g3
+I20130033
+sg4
+S'Allan Molina'
+p101
+sba(i__main__
+Estudiante
+p102
+(dp103
+g3
+I20130034
+sg4
+S'Camila Szelagowski'
+p104
+sba(i__main__
+Estudiante
+p105
+(dp106
+g3
+I20130035
+sg4
+S'Eliecer Sanchez'
+p107
+sba(i__main__
+Estudiante
+p108
+(dp109
+g3
+I20130036
+sg4
+S'Natalie Borge'
+p110
+sba(i__main__
+Estudiante
+p111
+(dp112
+g3
+I20130037
+sg4
+S'Victoria Aguilar'
+p113
+sba(i__main__
+Estudiante
+p114
+(dp115
+g3
+I20130038
+sg4
+S'Edson Chacon'
+p116
+sba(i__main__
+Estudiante
+p117
+(dp118
+g3
+I20130039
+sg4
+S'Fabian Chavarria'
+p119
+sba(i__main__
+Estudiante
+p120
+(dp121
+g3
+I20130040
+sg4
+S'Andres Horton'
+p122
+sba(i__main__
+Estudiante
+p123
+(dp124
+g3
+I20130041
+sg4
+S'Edson Fallas'
+p125
+sba(i__main__
+Estudiante
+p126
+(dp127
+g3
+I20130042
+sg4
+S'Douglas Chinchilla'
+p128
+sba(i__main__
+Estudiante
+p129
+(dp130
+g3
+I20130043
+sg4
+S'Julian Vargas'
+p131
+sba(i__main__
+Estudiante
+p132
+(dp133
+g3
+I20130044
+sg4
+S'Martha Lopez'
+p134
+sba(i__main__
+Estudiante
+p135
+(dp136
+g3
+I20130045
+sg4
+S'Andrey Joachim'
+p137
+sba(i__main__
+Estudiante
+p138
+(dp139
+g3
+I20130046
+sg4
+S'Felipe Venegas'
+p140
+sba(i__main__
+Estudiante
+p141
+(dp142
+g3
+I20130047
+sg4
+S'Victoria Mendez'
+p143
+sba(i__main__
+Estudiante
+p144
+(dp145
+g3
+I20130048
+sg4
+S'Manuela Fernandez'
+p146
+sba(i__main__
+Estudiante
+p147
+(dp148
+g3
+I20130049
+sg4
+S'Maripaz Bermudez'
+p149
+sba(i__main__
+Estudiante
+p150
+(dp151
+g3
+I20130050
+sg4
+S'Maria Paula Chavarria'
+p152
+sba(i__main__
+Estudiante
+p153
+(dp154
+g3
+I20130051
+sg4
+S'Gabriel Alberty'
+p155
+sba(i__main__
+Estudiante
+p156
+(dp157
+g3
+I20130052
+sg4
+S'Eliecer Guerrero'
+p158
+sba(i__main__
+Estudiante
+p159
+(dp160
+g3
+I20130053
+sg4
+S'Eliecer Obando'
+p161
+sba(i__main__
+Estudiante
+p162
+(dp163
+g3
+I20130054
+sg4
+S'Giancarlo Rivera'
+p164
+sba(i__main__
+Estudiante
+p165
+(dp166
+g3
+I20130055
+sg4
+S'Lucia Barboza'
+p167
+sba(i__main__
+Estudiante
+p168
+(dp169
+g3
+I20130056
+sg4
+S'Josue Hernandez'
+p170
+sba(i__main__
+Estudiante
+p171
+(dp172
+g3
+I20130057
+sg4
+S'Manuela Troyo'
+p173
+sba(i__main__
+Estudiante
+p174
+(dp175
+g3
+I20130058
+sg4
+S'Felipe Carmona'
+p176
+sba(i__main__
+Estudiante
+p177
+(dp178
+g3
+I20130059
+sg4
+S'Fiorella Herrera'
+p179
+sba(i__main__
+Estudiante
+p180
+(dp181
+g3
+I20130060
+sg4
+S'Nicole Pereira'
+p182
+sba(i__main__
+Estudiante
+p183
+(dp184
+g3
+I20130061
+sg4
+S'Ignacio Solis'
+p185
+sba(i__main__
+Estudiante
+p186
+(dp187
+g3
+I20130062
+sg4
+S'Heiner Perez'
+p188
+sba(i__main__
+Estudiante
+p189
+(dp190
+g3
+I20130063
+sg4
+S'Noelia Flores'
+p191
+sba(i__main__
+Estudiante
+p192
+(dp193
+g3
+I20130064
+sg4
+S'Ricardo Troyo'
+p194
+sba(i__main__
+Estudiante
+p195
+(dp196
+g3
+I20130065
+sg4
+S'Myron Villalta'
+p197
+sba(i__main__
+Estudiante
+p198
+(dp199
+g3
+I20130066
+sg4
+S'Josue Delgado'
+p200
+sba(i__main__
+Estudiante
+p201
+(dp202
+g3
+I20130067
+sg4
+S'Jorge Vargas'
+p203
+sba(i__main__
+Estudiante
+p204
+(dp205
+g3
+I20130068
+sg4
+S'Victoria Latham'
+p206
+sba(i__main__
+Estudiante
+p207
+(dp208
+g3
+I20130069
+sg4
+S'Joe Venegas'
+p209
+sba(i__main__
+Estudiante
+p210
+(dp211
+g3
+I20130070
+sg4
+S'Emilio Latham'
+p212
+sba(i__main__
+Estudiante
+p213
+(dp214
+g3
+I20130071
+sg4
+S'Gabriela Salas'
+p215
+sba(i__main__
+Estudiante
+p216
+(dp217
+g3
+I20130072
+sg4
+S'Alejandra Vaca'
+p218
+sba(i__main__
+Estudiante
+p219
+(dp220
+g3
+I20130073
+sg4
+S'Heiner Barrantes'
+p221
+sba(i__main__
+Estudiante
+p222
+(dp223
+g3
+I20130074
+sg4
+S'Glenn Arbenz'
+p224
+sba(i__main__
+Estudiante
+p225
+(dp226
+g3
+I20130075
+sg4
+S'Edgardo Horton'
+p227
+sba(i__main__
+Estudiante
+p228
+(dp229
+g3
+I20130076
+sg4
+S'Justin Matamoros'
+p230
+sba(i__main__
+Estudiante
+p231
+(dp232
+g3
+I20130077
+sg4
+S'Ximena Ochoa'
+p233
+sba(i__main__
+Estudiante
+p234
+(dp235
+g3
+I20130078
+sg4
+S'Jose Ignacio Barboza'
+p236
+sba(i__main__
+Estudiante
+p237
+(dp238
+g3
+I20130079
+sg4
+S'Adrian Cordoba'
+p239
+sba(i__main__
+Estudiante
+p240
+(dp241
+g3
+I20130080
+sg4
+S'Cristian Zamora'
+p242
+sba(i__main__
+Estudiante
+p243
+(dp244
+g3
+I20130081
+sg4
+S'Julian Molina'
+p245
+sba(i__main__
+Estudiante
+p246
+(dp247
+g3
+I20130082
+sg4
+S'Montserrat Solano'
+p248
+sba(i__main__
+Estudiante
+p249
+(dp250
+g3
+I20130083
+sg4
+S'Alanna Herrera'
+p251
+sba(i__main__
+Estudiante
+p252
+(dp253
+g3
+I20130084
+sg4
+S'Emilio Muntean'
+p254
+sba.

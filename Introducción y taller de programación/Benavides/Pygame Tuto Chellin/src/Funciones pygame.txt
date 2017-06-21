@@ -1,0 +1,20 @@
+pygame.init() #inicia modulos de pygame
+ventana=pygame.display.set_mode([1200,700]) #inserta por medio de una lista el tamano de ventana. Se igualo a variable ventana para trabajar como surface.
+pygame.display.set_caption("Tutorial") #pone nombre a la ventana
+salir=False #mientras salir sea falso
+reloj1=pygame.time.Clock() #Inserta un reloj de refresh de ventana
+background=pygame.image.load("pic.jpg") #Este se inserta para caso de poner una imagen como fondo. Se iguala a backgroun d para utilizarlo como Surface
+backgroundRect=background.get_rect() #Esto se uitliza para mantener recta a la imagen
+(255,255,0) #Variable del color de pantalla en RGB
+
+    
+while salir!=True: #Loop principal del juego
+        for event in pygame.event.get(): #por cada accion en el juego
+            if event.type==pygame.QUIT: #si evento es igual a salir
+                salir=True #salir se vuelve true
+        reloj1.tick(20) #Reloj se actualiza cada 20 fps
+        ventana.blit(background, backgroundRect) #La ventana se rellena con la variable background, y se establece en la variable backgroundRect
+	ventana.fill(color_pantalla) #La ventana se rellena con la variable color pantalla
+        pygame.display.update() #actualiza la pantalla
+    pygame.quit() #salir del juego
+main() #ejecuta la funcion al compilarla

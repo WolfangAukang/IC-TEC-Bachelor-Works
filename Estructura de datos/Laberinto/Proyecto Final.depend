@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1402933114 source:z:\dropbox\_datos_laberinto\proyecto final\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<winbgim.h>
+	<istream>
+	<sstream>
+	<string>
+	<climits>
+	"include/Laberinto.h"
+
+1402948872 z:\dropbox\_datos_laberinto\proyecto final\include\laberinto.h
+	"Nodo.h"
+	<stdlib.h>
+	<ctime>
+	<algorithm>
+	"LQueue.h"
+
+1402810598 z:\dropbox\_datos_laberinto\proyecto final\include\nodo.h
+	"Jugador.h"
+
+1402879731 z:\dropbox\_datos_laberinto\proyecto final\include\jugador.h
+
+1402933114 source:c:\users\andre\dropbox\_datos_laberinto\proyecto final\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<winbgim.h>
+	<istream>
+	<sstream>
+	<string>
+	<climits>
+	"include/Laberinto.h"
+
+1402881826 c:\users\andre\dropbox\_datos_laberinto\proyecto final\include\laberinto.h
+	"Nodo.h"
+	<stdlib.h>
+	<ctime>
+	<algorithm>
+	"LQueue.h"
+
+1402810598 c:\users\andre\dropbox\_datos_laberinto\proyecto final\include\nodo.h
+	"Jugador.h"
+
+1402879731 c:\users\andre\dropbox\_datos_laberinto\proyecto final\include\jugador.h
+
+1402882402 source:c:\users\pedro.ethica-odini\desktop\proyecto final\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<winbgim.h>
+	<istream>
+	<sstream>
+	<string>
+	<climits>
+	"include/Laberinto.h"
+
+1402881826 c:\users\pedro.ethica-odini\desktop\proyecto final\include\laberinto.h
+	"Nodo.h"
+	<stdlib.h>
+	<ctime>
+	<algorithm>
+	"LQueue.h"
+
+1402810598 c:\users\pedro.ethica-odini\desktop\proyecto final\include\nodo.h
+	"Jugador.h"
+
+1402879731 c:\users\pedro.ethica-odini\desktop\proyecto final\include\jugador.h
+
+1402765240 c:\users\pedro.ethica-odini\desktop\proyecto final\include\lqueue.h
+	"Node.h"
+
+1402701650 c:\users\pedro.ethica-odini\desktop\proyecto final\include\node.h
+	"Nodo.h"
+
+1402765240 z:\dropbox\_datos_laberinto\proyecto final\include\lqueue.h
+	"Node.h"
+
+1402701650 z:\dropbox\_datos_laberinto\proyecto final\include\node.h
+	"Nodo.h"
+
+1402765240 c:\users\andre\dropbox\_datos_laberinto\proyecto final\include\lqueue.h
+	"Node.h"
+
+1402701650 c:\users\andre\dropbox\_datos_laberinto\proyecto final\include\node.h
+	"Nodo.h"
+

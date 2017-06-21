@@ -1,0 +1,24 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Progra 1 Ericka/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+PrograCode|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Progra 1 Ericka/src/PrograCode.py
+PrograEjecutable|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Progra 1 Ericka/src/PrograEjecutable.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=PrograCode
+1=PrograEjecutable
+-- END DICTIONARY
+-- START TREE 1
+6
+a|1|a!11@
+cal|1|calcPascal!18@
+fac|2|factor!18@factorial!18@
+gol|2|Golbach!18@Golbachaux!18@
+pri|1|primo!18@
+tri|1|trianguloPascal!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1401956441 source:c:\users\core @ i3 intel\desktop\tres\main.cpp
+	<iostream>
+	<string>
+	<istream>
+	<sstream>
+
+1402364579 source:c:\users\andre\desktop\tres\main.cpp
+	<iostream>
+	<string>
+	<istream>
+	<sstream>
+	"include/Laberinto.h"
+
+1402367138 c:\users\andre\desktop\tres\include\laberinto.h
+	"Nodo.h"
+	"Jugador.h"
+	<stdlib.h>
+	<time.h>
+
+1402365866 c:\users\andre\desktop\tres\include\nodo.h
+
+1402350972 c:\users\andre\desktop\tres\include\jugador.h
+	"Nodo.h"
+
+1402442052 source:z:\dropbox\tec\clases\datos (ic-2001)\proyectos c++\tres\main.cpp
+	<iostream>
+	<string>
+	<istream>
+	<sstream>
+	"include/Laberinto.h"
+
+1402442054 z:\dropbox\tec\clases\datos (ic-2001)\proyectos c++\tres\include\laberinto.h
+	"Nodo.h"
+	"Jugador.h"
+	<stdlib.h>
+	<time.h>
+
+1402442054 z:\dropbox\tec\clases\datos (ic-2001)\proyectos c++\tres\include\nodo.h
+
+1402442054 z:\dropbox\tec\clases\datos (ic-2001)\proyectos c++\tres\include\jugador.h
+	"Nodo.h"
+

@@ -1,0 +1,27 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Examen Correccion 2013086585/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+Ex2013086585|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Examen Correccion 2013086585/src/Ex2013086585.py
+main|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Examen Correccion 2013086585/src/main.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=Ex2013086585
+1=main
+-- END DICTIONARY
+-- START TREE 1
+9
+a|1|a!11@
+apa|2|aparicionesaux!18@apariciones!18@
+cer|2|cercanos!18@cercanosaux!18@
+cue|2|cuentadigitos!18@cuentadigitosaux!18@
+dec|1|decimal!18@
+med|1|mediaaux!18@
+men|1|menufuncion!18@
+res|1|respuestacercanos!18@
+var|1|varianzaaux!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

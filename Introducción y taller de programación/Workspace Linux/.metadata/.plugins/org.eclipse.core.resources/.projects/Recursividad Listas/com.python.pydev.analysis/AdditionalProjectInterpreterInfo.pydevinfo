@@ -1,0 +1,41 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Recursividad Listas/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+multiplicar_lista|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad Listas/src/multiplicar_lista.py
+mayormenor|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad Listas/src/mayormenor.py
+lenrecursivo|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad Listas/src/lenrecursivo.py
+sepparimpar|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad Listas/src/sepparimpar.py
+parlistas|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad Listas/src/parlistas.py
+apariciones|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad Listas/src/apariciones.py
+main|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad Listas/src/main.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+7=multiplicar_lista
+6=mayormenor
+5=lenrecursivo
+4=sepparimpar
+2=parlistas
+3=apariciones
+1=main
+-- END DICTIONARY
+-- START TREE 1
+13
+a|1|a!11@
+can|2|cantparlista!18@cantparlistaaux!18@
+eli|2|elimina!26@eliminaaux!26@
+ifp|2|ifparlista!18@ifparlistaaux!18@
+ind|1|indicador!34@
+len|2|lenlistaaux!42@lenlista!42@
+may|2|mayormenor!50@mayoraux!50@
+men|1|menoraux!50@
+mul|2|multiplicacionlista!58@multiplicacionlistaaux!58@
+par|2|parlista!18@parlistaaux!18@
+rep|1|repeat!11@
+sep|2|separacion!34@separacionaux!34@
+tod|2|todosparlista!18@todosparlistaaux!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

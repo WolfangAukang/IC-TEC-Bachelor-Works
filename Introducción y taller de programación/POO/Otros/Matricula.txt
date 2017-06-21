@@ -1,0 +1,48 @@
+Curso
+-codigo: String
+-nombre: String
+-creditos: int
+-horas: int
++semestre: int
+-------------------------
++Curso()
++setCodigo(c: string):void
++getCodigo(): String
++toString(): String
+(-datosCurso)
+
+Estudiante
+-carnet: String
+-nombre: String
+-carrera: String
+-cedula: String
+(-listaEstudiantes)
+
+Profesor
+-codigo: int
+-nombre: String
+-cedula: String
+-puesto: String
+-depto: String
+-jornada: double
+-salario: double
+(-datosProfe)
+
+Grupo
++Attribute1
+-numero: int
+-horario: String
+-aula: String
+-cantEst: int
+-datosCurso: Curso
+-datosProfe: Profesor
+-listaEstudiantes: Collection
+--------------------------------------
++Grupo()
++setNumero(n: int):void
++getNumero(): int
++setDatosCurso(dc: Curso):void
++getDatosCurso(): Curso
++matricular(e: Estudiante):boolean
++retirar(carnet:String):boolean
++toString(): String

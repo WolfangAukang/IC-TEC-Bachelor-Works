@@ -1,0 +1,26 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/recursividadcola/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+Quiz1|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/quiz/src/Quiz1.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=Quiz1
+-- END DICTIONARY
+-- START TREE 1
+10
+bin|2|bin_dec!10@bin_decaux!10@
+can|2|cantdigitosaux!10@cantdigitos!10@
+com|1|comprobacion!10@
+dec|2|dec_bin!10@dec_binaux!10@
+dig|2|digitosimpar!10@digitosimparaux!10@
+fac|2|factorialaux!10@factorial!10@
+fib|2|fibonacciaux!10@fibonacci!10@
+mul|2|multi!10@multiaux!10@
+par|2|parimparlistasaux!10@parimparlistas!10@
+sum|2|sumatoriaaux!10@sumatoria!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

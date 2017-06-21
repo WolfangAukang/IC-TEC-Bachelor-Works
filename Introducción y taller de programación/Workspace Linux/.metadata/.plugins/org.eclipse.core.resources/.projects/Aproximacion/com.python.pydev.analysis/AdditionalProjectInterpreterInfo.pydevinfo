@@ -1,0 +1,23 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Aproximacion/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+newton_raphson|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Aproximacion/src/newton_raphson.py
+biseccion|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Aproximacion/src/biseccion.py
+main|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Aproximacion/src/main.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=newton_raphson
+2=biseccion
+1=main
+-- END DICTIONARY
+-- START TREE 1
+3
+a|1|a!11@
+bis|2|biseccion!18@biseccion_aux!18@
+new|4|newton_raphson_roy!26@newton_aux!26@newton_raph!26@newton_raphson_aux!26@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

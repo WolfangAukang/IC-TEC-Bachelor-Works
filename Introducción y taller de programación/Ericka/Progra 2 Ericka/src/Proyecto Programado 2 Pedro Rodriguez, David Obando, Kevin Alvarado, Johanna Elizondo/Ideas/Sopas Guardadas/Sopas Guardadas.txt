@@ -1,0 +1,12 @@
+Favor no editar este archivo sin saber como hacerlo!!
+Estructura del guardado:
+Nombre
+Matriz
+Palabras
+-------------------------------------
+rostipollos
+uksjmnrdmzjidpatneezvvvdclkcftxdijorcocrdwnklofibnqwebiwbnqmqqitgmfzhnrjqowubwrvndstcgqxyajcekleijsk
+4
+jorco
+acolito
+-------------------------------------

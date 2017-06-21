@@ -1,0 +1,3 @@
+c.Clase()
+c.setClase(caracteristicas)
+print c.toString()+c.toInt(por si hay)

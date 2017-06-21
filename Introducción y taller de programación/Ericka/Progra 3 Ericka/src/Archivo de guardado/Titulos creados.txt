@@ -1,0 +1,7 @@
+Archivo de edición del Generador de Presupuestos
+NOTA: NO editar si de verdad no sabe como trabaja este txt
+Estructura:
+(*)Nombre del Presupuesto
+-----------------------------------------------------------
+*Ejemplo
+*Mi presupuesto

@@ -1,0 +1,106 @@
+shutdown -r -t 00
+
+Win XP
+ntldr
+boot
+ntdetect
+
+Boot
+Repair
+fixmbr
+y
+fixboot
+y
+chkdsk /?
+chkdsk c: /P /R
+AUTOCHK.EXE
+C/WINDOWS>d:
+dir
+
+
+
+
+copy ntdlr c:
+copy ntdetect
+
+
+Ubuntu
+Sudo passwd root
+$ su
+ls
+cd ..
+ls
+cd ..
+clear
+shutdown -h now
+-r reboot
+-rc rebootear en frío (apaga la máquina para bootear normalmente
+rebootear en caliente (rebootea la máquina sin apagarla)
+pwd (indica donde está el user)
+
+pico (crear archivos txt)
+rmdir * (bye bye linux D:)
+.hola (archivo oculto por punto. Solo se puede ver con la -a)
+apropos (comando) (para comandos)
+cat/mimeopen/
+
+ctrl alt Fx (F1, F2,)
+kill -9 (mata un proceso)
+ps -aux (procesos activos)
+service ()
+Procesos backgrounds, DAEMONS
+service --status-all (ver todos los daemons)
+lightdm stop (para interfaz gráfica)
+Ubuntu 9.04= service gdm stop
+startx -- :x (2,3,4) (inicia consola gráfica)
+ctrl c, mata procesos
+desde consola f1:
+fdisk (particiones disco)
+hd (disco duro)
+a, b, c: Órdenes de disco
+sdc, sda, sdb
+who (muestra quien está conectado y con cual usuario)
+finger (muestra histórico de entradas)
+telnet (conectar a la red, conectándose a otra pc 
+pts pseudo terminal
+rlogin (conectarse a otra maquina de manera remota)
+cd /
+cd /etc
+cat gettys
+
+/etc/event.d
+/etc/event.d# cr tty1 tty1.OLD (Respaldo)
+/etc/event.d# pico tty1 (Agregar # al inicio de cada linea)
+shutdown -h now
+mv (move)
+rn (rename)
+tar -czf nombrecompreso.tar(comprimir)
+mkdir casa
+cp mihome.tar casa
+cd casa
+ls -la
+tar -xzf nombrecompreso.tar
+drwxr
+d=directory
+r=read (comienza grupo)
+w=write
+x=execute by group
+
+drwxr-xr-x
+4 4 4
+
+chmod 400 hola(cambiar permisos)
+ls -la
+-r-------
+exit (salir consola)
+
+chmod 000 hola
+pico hola (permiso denegado)
+chmod +r+w hola
+
+Cambiar propietario (super usuario)
+chown root hola (cambia propietario, primer columna)
+
+pico hola
+chmod 500 hola2
+./hola2 (ejecutable)

@@ -1,0 +1,35 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Prácticas/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+P1|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Prácticas/src/P1.py
+main|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Prácticas/src/main.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=P1
+1=main
+-- END DICTIONARY
+-- START TREE 1
+17
+a|1|a!11@
+adj|1|adjunto!18@
+aum|1|aumento!18@
+b|1|b!11@
+bis|1|bisiesto!18@
+cal|3|calc_salario!18@calcula_monto!18@calc_hotel!18@
+con|1|conversionmetros!18@
+des|1|desglose!18@
+dis|1|disco!18@
+foo|1|foo!18@
+med|1|mediano!18@
+min|1|minutos!18@
+mis|1|misterio!18@
+ord|1|orden!18@
+pal|1|palindromo!18@
+sig|1|significativo!18@
+val|1|valida!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,89 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Ericka Segundo Semestre/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+GlobalTest|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Ericka Segundo Semestre/src/GlobalTest.py
+MainDebugger|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Ericka Segundo Semestre/src/MainDebugger.py
+TKinterejemplo|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Ericka Segundo Semestre/src/TKinterejemplo.py
+TestTkinter|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Ericka Segundo Semestre/src/TestTkinter.py
+EjerciciosPseudocodigo|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Ericka Segundo Semestre/src/EjerciciosPseudocodigo.py
+TKinter_Cuentapalabras|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Ericka Segundo Semestre/src/TKinter_Cuentapalabras.py
+Recursion|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Ericka Segundo Semestre/src/Recursion.py
+Listas|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Ericka Segundo Semestre/src/Listas.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+1=GlobalTest
+2=MainDebugger
+6=TKinterejemplo
+3=TestTkinter
+8=EjerciciosPseudocodigo
+5=TKinter_Cuentapalabras
+4=Recursion
+7=Listas
+-- END DICTIONARY
+-- START TREE 1
+59
+a|2|a!11@a!19@
+abr|1|abrirven1!26@
+ack|1|ackermann!34@
+aje|1|ajedrezrey!34@
+b|1|b!11@
+b0|1|b0!27@
+b1|1|b1!27@
+b2|1|b2!27@
+b3|1|b3!27@
+bot|2|bot2!43@bot1!43@
+btn|2|btnContar!51@btnFact!51@
+cal|1|calcPascal!34@
+cap|3|capicua!34@capicuares!34@capicuaaux!34@
+cer|2|cerrarven1!26@cerrar!26@
+com|5|comparagen!42@compara!42@compar!34@comprobacionyorden!58@comparapalabras!34@
+con|3|conVocales!34@conVocales2!34@contVocales!50@
+cre|1|creditos!26@
+cua|1|cuadradoPerfecto!34@
+cue|4|cuentadigitosdis!34@cuentadigitos!34@cuentVocales!34@cuentadigitosdisaux!34@
+die|2|diezcercanoaux!34@diezcercano!34@
+dig|4|digisumaaux!34@DigitAltoaux!34@DigitAlto!34@digisuma!34@
+div|1|divtrunc!34@
+eli|2|eliminarVocales!34@EliminaRepet!58@
+ent|2|Entrecruzamiento!58@entrada!58@
+fac|5|factorial!50@factorial!34@factor!34@fact!26@fact!50@
+fib|1|fibo!34@
+fun|2|funcionB!10@funcionA!10@
+fus|2|FusionAlgoritmo1l!58@FusionAlgoritmo2l!58@
+gra|1|grafica!58@
+his|1|histogramaalgo!58@
+hor|2|hormiguitas!34@hora!66@
+inv|1|invertirnum!34@
+lib|1|libreDeCuadrados!34@
+lis|1|ListasOrdenadas!58@
+mas|3|MasDigito!34@MasDigitores!34@MasDigitoaux!34@
+mcd|2|mcdaux!34@mcd!34@
+men|3|menu!66@menornum!66@MenorLista!58@
+meq|2|meQuitaron!34@meQuitaronaux!34@
+nam|1|name!10@
+num|1|numeroDePosPares!34@
+ocu|3|OcurreEn2!34@OcurreEn!34@OcurreEn2aux!34@
+pal|2|palindromo!34@palindromores!34@
+per|2|perfectores!34@perfecto!34@
+pri|2|primo!34@primoaux!34@
+rec|1|rectanumerica!66@
+rem|1|RemoverElemento!58@
+sal|1|salir!42@
+sem|3|semiPrimo!34@semiPrimores!34@semiPrimoaux!34@
+sor|1|Sortirdef!58@
+sum|1|sumatoria!26@
+tex|3|texto2!43@texto1!43@texto3!43@
+tit|3|titulov0!27@titulo!43@titulo!51@
+tri|3|trianguloaux!34@trianguloPascal!34@triangulo!34@
+txt|4|txtEntero!51@txtEntrada!43@txtRespuesta!51@txtNumero!27@
+v0|3|v0!43@v0!51@v0!27@
+v1|1|v1!27@
+val|7|valorHilera3!43@valorHilera!27@valorHilera!51@valorHilera1!43@valorEntero!51@valorEntero!27@valorHilera2!43@
+vue|1|vuelto!66@
+x|1|x!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

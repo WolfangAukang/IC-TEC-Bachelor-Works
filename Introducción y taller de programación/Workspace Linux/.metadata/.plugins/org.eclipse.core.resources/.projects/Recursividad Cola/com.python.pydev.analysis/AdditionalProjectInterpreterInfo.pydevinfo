@@ -1,0 +1,35 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Recursividad Cola/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+mayor|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad Cola/src/mayor.py
+len|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad Cola/src/len.py
+Quiz1|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad Cola/src/Quiz1.py
+main|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad Cola/src/main.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=mayor
+4=len
+2=Quiz1
+1=main
+-- END DICTIONARY
+-- START TREE 1
+13
+a|1|a!11@
+bin|2|bin_dec!18@bin_decaux!18@
+can|2|cantdigitosaux!18@cantdigitos!18@
+com|2|compara!26@comprobacion!18@
+dec|2|dec_bin!18@dec_binaux!18@
+dig|2|digitosimpar!18@digitosimparaux!18@
+fac|2|factorialaux!18@factorial!18@
+fib|2|fibonacciaux!18@fibonacci!18@
+len|2|lenaux!34@len!34@
+may|2|mayor!26@mayor_aux!26@
+mul|2|multi!18@multiaux!18@
+par|2|parimparlistasaux!18@parimparlistas!18@
+sum|2|sumatoriaaux!18@sumatoria!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

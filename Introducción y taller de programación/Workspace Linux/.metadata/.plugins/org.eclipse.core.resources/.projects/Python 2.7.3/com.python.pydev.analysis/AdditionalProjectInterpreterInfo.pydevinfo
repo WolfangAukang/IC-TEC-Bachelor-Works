@@ -1,0 +1,57 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Python 2.7.3/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+Discriminante|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/Discriminante.py
+ejemplofor|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/ejemplofor.py
+correcionnotas|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/correcionnotas.py
+aumento|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/aumento.py
+inversor|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/inversor.py
+descompone|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/descompone.py
+main|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/main.py
+notas|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/notas.py
+Quiz1SinEficiencia|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/Quiz1SinEficiencia.py
+Quiz2|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/Quiz2.py
+Quiz1|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/Quiz1.py
+Quiz1Eficiencia|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/Quiz1Eficiencia.py
+CelsiusFahrenheitC|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/CelsiusFahrenheitC.py
+Quiz3|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Python 2.7.3/src/Quiz3.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+14=ejemplofor
+7=Discriminante
+3=correcionnotas
+4=aumento
+10=inversor
+6=descompone
+1=main
+2=notas
+13=Quiz1SinEficiencia
+8=Quiz2
+11=Quiz1Eficiencia
+12=Quiz1
+5=CelsiusFahrenheitC
+9=Quiz3
+-- END DICTIONARY
+-- START TREE 1
+15
+a|1|a!11@
+apr|2|AprobReprob!18@AprobReprob!26@
+aum|1|aumento!34@
+cel|1|CelFah!42@
+con|2|Condicion!18@Condicion!26@
+des|1|descompone!50@
+dis|1|Discriminante!58@
+eje|1|ejemplofor!66@
+ejw|1|ejwhile!74@
+fah|1|FahCel!42@
+inv|1|Inversa!82@
+may|3|mayor!90@mayor!98@mayor!106@
+not|1|nota!19@
+ped|3|Pedirdatos!90@Pedirdatos!106@Pedirdatos!98@
+sem|1|semana!115@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

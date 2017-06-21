@@ -1,0 +1,28 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Calculo/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+Progra|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Calculo/src/Progra.py
+Ejecutable|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Calculo/src/Ejecutable.py
+CalculoFin|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Calculo/src/CalculoFin.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=Progra
+2=Ejecutable
+1=CalculoFin
+-- END DICTIONARY
+-- START TREE 1
+8
+L1|1|L1!11@
+L2|1|L2!11@
+a|1|a!19@
+bot|1|Boton!11@
+cal|4|calculoaux!10@calculo!10@calculoaux!26@calculo!26@
+tex|2|texto2!11@texto1!11@
+tit|1|titulo!11@
+top|1|top!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

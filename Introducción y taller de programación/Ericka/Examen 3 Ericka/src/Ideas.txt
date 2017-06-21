@@ -1,0 +1,20 @@
+Estudiante
+carnet
+nombre
+urna corresp.
+voto
+
+Urna
+id 
+cantidad papeletas
+llegaron
+no llegaron
+
+Voto
+Estudiante
+Urna
+voto
+
+Candidato
+Nombre
+Cant. Votos

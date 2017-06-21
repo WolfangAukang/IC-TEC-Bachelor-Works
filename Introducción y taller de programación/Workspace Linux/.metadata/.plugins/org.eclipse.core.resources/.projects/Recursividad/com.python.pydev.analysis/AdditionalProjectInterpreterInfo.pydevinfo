@@ -1,0 +1,33 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Recursividad/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+ceros|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad/src/ceros.py
+digitosaux2|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad/src/digitosaux2.py
+digitosauxisinstance|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad/src/digitosauxisinstance.py
+digitos|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad/src/digitos.py
+pares|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad/src/pares.py
+fibonacci|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad/src/fibonacci.py
+main|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Recursividad/src/main.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+2=ceros
+5=digitosaux2
+4=digitosauxisinstance
+3=digitos
+7=pares
+6=fibonacci
+1=main
+-- END DICTIONARY
+-- START TREE 1
+5
+a|1|a!11@
+cer|2|cerosaux!18@ceros!18@
+dig|7|digitosprofe!26@digito!34@digitosprofe!34@digitos_aux!34@digito!42@digitoAux!42@digitoslibro!26@
+fib|1|fibonacci!50@
+par|1|pares!58@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

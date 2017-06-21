@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1398752616 source:z:\dropbox\tec\clases\datos (ic-2001)\proyectos c++\lqueue\main.cpp
+	<iostream>
+	"include\LQueue.h"
+	"include/Node.h"
+	<string>
+
+1398773828 z:\dropbox\tec\clases\datos (ic-2001)\proyectos c++\lqueue\include\lqueue.h
+	"Node.h"
+	<stdexcept>
+
+1396906209 z:\dropbox\tec\clases\datos (ic-2001)\proyectos c++\lqueue\include\node.h
+

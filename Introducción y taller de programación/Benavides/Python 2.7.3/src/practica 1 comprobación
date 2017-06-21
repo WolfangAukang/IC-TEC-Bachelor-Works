@@ -1,0 +1,7 @@
+>>> import sys; print('%s %s' % (sys.executable or sys.platform, sys.version))
+C:\Python27\python.exe 2.7.3 (default, Apr 10 2012, 23:31:26) [MSC v.1500 32 bit (Intel)]
+>>> from practica1 import foo
+>>> foo(14)
+2
+>>> foo(20+foo(7))
+3

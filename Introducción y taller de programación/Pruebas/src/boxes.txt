@@ -1,0 +1,26 @@
+#Caja Resultado
+textoris=open('lol.txt','r')
+ResrectGolbach = Tk.Canvas(tab0, width=400, height=500, scrollregion=(0,0,500,500))
+ResrectGolbach.grid(row=2, column=1, columnspan=4)
+ResrectGolbach.create_rectangle(10, 5, 400, 430, fill="white")
+ResrectGolbach.create_text(250,15, text=textoris.read())
+
+ResrectAmigos = Tk.Canvas(tab1, width=400, height=500)
+ResrectAmigos.grid(row=3, column=1, columnspan=4)
+ResrectAmigos.create_rectangle(10, 5, 400, 430, fill="white")
+ResrectAmigos.create_text(25,15, text="Holi")
+
+ResrectPascal = Tk.Canvas(tab2, width=400, height=500)
+ResrectPascal.grid(row=3, column=1, columnspan=4)
+ResrectPascal.create_rectangle(10, 5, 400, 430, fill="white")
+ResrectPascal.create_text(25,15, text="Holi")
+
+ResrectTriangular = Tk.Canvas(tab3, width=400, height=500)
+ResrectTriangular.grid(row=2, column=1, columnspan=4)
+ResrectTriangular.create_rectangle(10, 5, 400, 430, fill="white")
+ResrectTriangular.create_text(25,15, text="Holi")
+
+Resrect153 = Tk.Canvas(tab4, width=400, height=500)
+Resrect153.grid(row=2, column=1, columnspan=4)
+Resrect153.create_rectangle(10, 5, 400, 430, fill="white")
+Resrect153.create_text(25,15, text="Holi")

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393550094 source:z:\dropbox\tec\clases\datos (ic-2001)\proyectos c++\practicas\practicapuntero.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

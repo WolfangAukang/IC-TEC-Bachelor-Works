@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1402623310 source:z:\dropbox\tec\clases\datos (ic-2001)\proyectos c++\bgigotham\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<winbgim.h>
+	<istream>
+	<sstream>
+	<string>
+
+1402422927 z:\dropbox\tec\clases\datos (ic-2001)\proyectos c++\bgigotham\movimentacion.cpp
+	<iostream>
+	<winbgim.h>
+
+1402423097 source:z:\dropbox\tec\clases\datos (ic-2001)\proyectos c++\bgigotham\movimentacion.cpp
+	<iostream>
+	<winbgim.h>
+

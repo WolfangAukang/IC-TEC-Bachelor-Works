@@ -1,0 +1,41 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Pruebas/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+IdeaInterfazPedro|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Pruebas/src/IdeaInterfazPedro.py
+Pruebas|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Pruebas/src/Pruebas.py
+devilsteam|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Pruebas/src/devilsteam.py
+PruebaMain|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Pruebas/src/PruebaMain.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=IdeaInterfazPedro
+4=Pruebas
+2=devilsteam
+1=PruebaMain
+-- END DICTIONARY
+-- START TREE 1
+19
+a|1|a!11@
+bot|2|bot!19@botonresolv!27@
+cal|1|calcPascal!34@
+cre|1|creditos!26@
+ent|1|EntradaNumero!27@
+fac|2|factorial!34@factor!34@
+ima|2|imageni!27@imagen!27@
+ind|1|indicaciones!27@
+mai|1|mainframe!19@
+men|1|menubarra!27@
+mis|1|mishi!19@
+opc|1|opcionmenu!27@
+sal|2|salir!26@SalidaString!27@
+tab|3|tab1!19@tab0!19@tabframe!19@
+tex|1|textoindic1!27@
+tit|1|titulo!27@
+tri|1|trianguloPascal!34@
+txt|1|txtEntrada!27@
+v0|2|v0!19@v0!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

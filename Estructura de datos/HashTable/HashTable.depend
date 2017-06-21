@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1397439677 source:c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\hashtable\main.cpp
+	<iostream>
+	"include\HashTable.h"
+	<string>
+	<sstream>
+
+1397438201 c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\hashtable\include\hashtable.h
+	"HashNode.h"
+	"LinkedList.h"
+	<stdexcept>
+	<math.h>
+	<cstdlib>
+
+1397284169 c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\hashtable\include\hashnode.h
+
+1397437641 c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\hashtable\include\linkedlist.h
+	"HashNode.h"
+	<stdexcept>
+
+1397265423 c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\hashtable\include\node.h
+
+1397440062 source:z:\dropbox\tec\clases\datos (ic-2001)\tarea completar hash table, bst, maxheap\hashtable\main.cpp
+	<iostream>
+	"include\HashTable.h"
+	<string>
+	<sstream>
+
+1399934311 z:\dropbox\tec\clases\datos (ic-2001)\tarea completar hash table, bst, maxheap\hashtable\include\hashtable.h
+	"HashNode.h"
+	"LinkedList.h"
+	<stdexcept>
+	<math.h>
+	<cstdlib>
+
+1397284169 z:\dropbox\tec\clases\datos (ic-2001)\tarea completar hash table, bst, maxheap\hashtable\include\hashnode.h
+
+1398139959 z:\dropbox\tec\clases\datos (ic-2001)\tarea completar hash table, bst, maxheap\hashtable\include\linkedlist.h
+	"HashNode.h"
+	<stdexcept>
+

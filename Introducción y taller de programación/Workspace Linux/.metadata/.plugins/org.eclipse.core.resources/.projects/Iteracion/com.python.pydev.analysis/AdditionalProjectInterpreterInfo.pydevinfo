@@ -1,0 +1,25 @@
+-- VERSION_3
+-- START DISKCACHE
+/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/Workspace Linux/.metadata/.plugins/org.eclipse.core.resources/.projects/Iteracion/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+ejem|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/iteracion/src/ejem.py
+vectormatriz|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/iteracion/src/vectormatriz.py
+lista|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/iteracion/src/lista.py
+main|0|/media/Datos/Dropbox/TEC/Clases/Intro (IC-1800)/Proyectos Python/iteracion/src/main.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=ejem
+1=vectormatriz
+2=lista
+-- END DICTIONARY
+-- START TREE 1
+4
+imp|2|imp_matriz!10@imp_vector!10@
+lar|2|largo_listafor!18@largo_lista!18@
+par|1|pares_lista!18@
+sum|1|sumaunos!26@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

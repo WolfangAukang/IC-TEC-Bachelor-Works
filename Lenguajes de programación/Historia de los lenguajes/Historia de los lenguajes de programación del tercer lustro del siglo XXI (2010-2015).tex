@@ -1,0 +1,93 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{verbatim} %For begin and end comment (\begin{comment})
+\usepackage{setspace}
+
+\begin{document}
+\title{Historia de los lenguajes de programación del tercer lustro del siglo XXI (2010-2015) \\
+%\large Common Simulation of a SCARA robot \\ with PD and learningcontroller
+}
+\date{} %Empty for no date or today for today's date
+\author{Instituto Tecnologico de Costa Rica, Escuela de Ingeniería en Computación\\
+Curso de Lenguajes de Programación, Profesor Kirstein Gätjens Soto\\
+Autor: Pedro Henrique Rodriguez de Oliveira (2013086585)}
+
+\maketitle
+%\onehalfspacing
+%\fontsize{12cm}{14cm}
+Un lenguaje de programación consiste en un método de comunicación, compuesto por símbolos y reglas estructurales y semánticas, que permite la interacción entre el ser humano y la máquina. Específicamente, según \cite{Saavedra}, \textsl{“un lenguaje de programación es un lenguaje que puede ser utilizado para controlar el comportamiento de una máquina (...)”}. Existen varios lenguajes de programación, los cuales se dividen principalmente por niveles -sea bajo nivel, como el lenguaje ensamblador o alto nivel, como el lenguaje C++- y paradigmas -véase imperativo, orientado a objetos, funcional, entre otros- y que son hechos para ejecutar diferentes tipos de acciones, según requiera el programador en el caso que se le presente.
+
+Desde la creación de Fortran en 1954, el primer lenguaje de programación de alto nivel, ha sido creada una gran cantidad de lenguajes de programación, donde algunos se han visto como innovadores, otros como bastante interactivos, y en fin, unos siguen siendo relevantes hasta la actualidad y otros han sucumbido a la obsolescencia y el olvido.
+
+Aunque dentro del siglo XX se ha creado la mayor cantidad de lenguajes de programación, el siglo XXI se ha caracterizado por la creación de lenguajes que presenten mayor similitud con los lenguajes mayormente utilizados comercialmente, como Java, Javascript, C, C++, PHP, entre otros. Acá mencionaremos una breve historia sobre algunos lenguajes que fueron creados en el tercer lustro de este siglo, es decir, entre los años 2010 y 2015.
+
+\section{Ceylon}
+
+Ceylon es un lenguaje modular (maneja los problemas en módulos para poder obtener un mejor manejo), de tipificación estática (se comprueba el estándar antes de la ejecución, por lo cual la ejecución del programa se hace mucho más eficiente) y orientado a objetos. Su nombre se relaciona con el Ceylon Británico, una colonia de la Gran Bretaña durante los años 1815 y 1948, que actualmente es la isla de Sri Lanka. Este trabaja con las máquinas virtuales de Java (su lenguaje predecesor) y Javascript y su versión 1.0 salió el 12 de noviembre del 2013, con el
+objetivo principal de permitir el desarrollo de módulos multiplataformas (\cite{King}). Algunas de sus ventajas son:
+\begin{itemize}
+  \item Una sintaxis más flexible, con soporte a expresiones de árbol
+  \item Constructores de primera clase para la definición de módulos y dependencias entre estos
+  \item Un tratamiento especial hacia funciones y tuplas
+\end{itemize}
+
+\section{Dart}
+
+Dart es un lenguaje de código abierto desarrollado por Google. Este lenguaje predecesor de Java y JavaScript, creado en 2011, está destinado a ser un sustituto de Javascript en lo que corresponde a desarrollo web, sin embargo, la idea principal de crear este lenguaje fue para obtener como resultado un lenguaje de propósito general, según \cite{Lardinois}.
+
+Es un lenguaje orientado a objetos, de simple herencia, de tipificación opcional. Para poder compilar dicho lenguaje se necesita el navegador Chromium, que posee una máquina virtual de Dart (\cite{James}).
+
+\section{Hack}
+
+Hack es un lenguaje creado en el 2014 por la famosa empresa y red social Facebook. Corre con la máquina virtual open-source HipHop (Mejor conocido como HHVM), que se encarga de ejecutar programas escritos principalmente en PHP (del cual es predecesor de Hack) (\cite{HHVM}). Es de tipificación estática (aunque también por poder compilar código PHP puede considerarse también como de tipificación dinámica) y ha sido tan importante para la empresa creadora, que todo el código base en PHP de su producto se ha pasado a Hack.
+
+La razón por la cual se creó a Hack fue específicamente por el problema que causan los lenguajes de tipaje dinámico que, aunque son útiles para el desarrollo veloz de aplicaciones, no sirven para detectar errores antes de la ejecución, siendo una desventaja para códigos base muy largos (\cite{Menghrajani}).
+
+\section{Kotlin}
+
+Kotlin es un lenguaje predecesor de Java y Scala creado en el 2011 por Andrey Breslav. Su propósito es el de servir a los desarrolladores como un lenguaje de propósito general compatible con Java y más simple que Scala. Las grandes ventajas que brinda este lenguaje frente a Java, según Breslav en \cite{Heiss}, son:
+\begin{itemize}
+  \item La inferencia del tipo de dato es más fuerte, por lo cual se evita mayoritariamente repetir los tipos una y otra vez
+  \item Las declaraciones de las clases son mucho más concisas
+  \item No hay necesidad de clases estáticas, por la funciones de alto nivel
+\end{itemize}
+
+\section{Julia}
+
+Julia es un lenguaje de alto nivel hecho para la computación técnica. Creado en 2012, provee una ejecución paralela distribuida, precisión numérica y una extensa biblioteca de funciones matemáticas. Además, fue diseñado para trabajar en computación por nube.
+
+Predecesor de MATLAB, posee librerías de C y Fortran. Es de tipificación dinámica y posee una licencia open-source del MIT. Si se compara el rendimiento de este lenguaje a la hora de compilar y ejecutar funciones matemáticas, este alcanza el rendimiento del compilador de C, gcc 4.8.2. y hasta puede llegar a superarlo en ciertas circunstancias, como por ejemplo una función de \textbf{quicksort} (\cite{Julia}).
+
+\section{Swift}
+
+Swift es un lenguaje de programación creado por Apple para iOS y OS X, que precede de C y Objective-C. Este lenguaje, creado en 2014, usa los frameworks de Cocoa y Cocoa Touch y es considerado fácil para programadores que deseen adentrarse en el aprendizaje de este lenguaje.
+
+Según \cite{Apple}, Swift fue creado para simplificar el manejo de memoria mediante el ARC (Automatic Reference Counting), simplificar el uso de Objective-C, posee un compilador optimizado para un mejor rendimiento y unifica la parte procedimental y orientado a objetos del lenguaje.
+
+\section*{Conclusión}
+
+Aunque se ha agregado dentro de esta redacción una gran porción de nuevos lenguajes de programación creados en el tercer lustro del siglo XXI, existen muchos más ya creados y tal vez existe algún otro lenguaje en desarrollo aún no publicado a los medios o apenas en etapa \textit{alpha}. Sin embargo, la razón por la cual se insertaron estos lenguajes fue por la relevancia de sus predecesores, la diversidad de los paradigmas en los cuales se encuentran y las empresas que lo crearon, simplemente porque muchas de estas utilizan este lenguaje para mejorar sus plataformas digitales (como el caso del Hack de Facebook) o también para el desarrollo de aplicaciones en sus dispositivos (tal como el caso del Swift de Apple).
+
+Hay que recalcar que la tecnología se encuentra en constante desarrollo e innovación, por lo cual se esperan aún muchos más lenguajes de este tipo o que cumplan una función muy importante para la resolución de problemas.
+
+\begin{thebibliography}{50}
+	\bibitem{Apple} Apple (s.f.). “About Swift”. Extraído el 15 de febrero del 2015 de la página web https://developer.apple.com/library/mac/documentation/Swift/Conceptual/Swift\_Pr\linebreak ogramming\_Language/index.html
+	\bibitem{Heiss} Heiss, J. (Abril 2013). “The Advent of Kotlin: A Conversation with Jet-Brains’ Andrey Breslav”. Extraído el 15 de febrero del 2015 de la página web http://www.oracle.com/technetwork/articles/java/breslav-1932170.html
+	\bibitem{HHVM} HHVM (s.f.). “What is HHVM?”. Extraído el 15 de febrero del 2015 de la página web http://hhvm.com/
+	\bibitem{James} James, M. (13 Octubre 2014). “The Astonshing Rise Of Dart”. Extraído el 14 de febrero del 2015 de la página web http://www.i-programmer.info/news/98-languages/7857-the-astonishing-rise-of-dart.html
+	\bibitem{Julia} Julia (s.f.). “Julia”. Extraído el 15 de febrero del 2015 de la página web http://julialang.org/
+	\bibitem{King} King, G. (12 Noviembre 2013). “Ceylon 1.0.0 is now available”. Extraído el 14 de febrero del 2015 de la página web http://ceylon-lang.org/blog/2013/11/12/ceylon-1/
+	\bibitem{Lardinois} Lardinois, F. (29 Junio 2014). “Google’s Dart Programming Language Is Coming To The Server”. Extraído el 14 de febrero del 2015 de la página web http://techcrunch.com/2014/06/29/googles-dart-programming-language-is-coming-to-the-server/
+	\bibitem{Menghrajani} Menghrajani, A., Verlaguet, J. (20 Marzo 2014). “Hack: a new programming language for HHVM”. Extraído el 15 de febrero del 2015 de la página web https://code.facebook.com/posts/264544830379293/hack-a-new-programming-language-for-hhvm/
+	\bibitem{Saavedra} Saavedra, J. (5 Mayo 2007). “Lenguajes de programación”. Extraído el 14 de febrero del 2015 de la página web https://jorgesaavedra.wordpress.com/2007/05/05/lenguajes-de-programacion/
+	%\bibitem{Simpson} Homer J. Simpson. \textsl{Mmmmm...donuts}. Evergreen Terrace Printing Co., Springfield, SomewhereUSA, 1998
+\end{thebibliography}
+
+\end{document}
+
+
