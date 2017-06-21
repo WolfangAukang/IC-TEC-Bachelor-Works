@@ -1,0 +1,1 @@
+{ "errorRate":0.25, "alphaRate":0.03, "hiddenNeurons":7, "iterations":10000 }
